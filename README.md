@@ -60,17 +60,26 @@ Python se identifica por ser un lenguaje de programación bastante ágil y diná
 ## Descargar
 
 ![image](https://user-images.githubusercontent.com/92813781/144785723-2f6403d6-adb8-4a72-b12d-17f49025b8db.png)
+
 Ingresar a la página oficial de python. https://www.python.org/
 
+
 ![image](https://user-images.githubusercontent.com/92813781/144785799-ea274972-857e-4a3c-8523-c64853ea7c4a.png)
+
 Hacer click en "Descargar" y elegir la última version para nuestro systema operativo
 
+
 ![image](https://user-images.githubusercontent.com/92813781/144786006-293f0d9d-e96d-47ce-b559-294e1c816fef.png)
+
 Esperar a que el archivo se descargue por completo y ejecutar.
 
+
 ![image](https://user-images.githubusercontent.com/92813781/144786029-06c3e078-f5ed-4fca-ae56-140326cdabd9.png)
+
 Seguir los pasos del instalador y Python ya estará instalado en su máquina. (Asegurese de marcar la cajilla de "add Python 3.10 to PATH" y escoger "Install now"
 para tener una instalación completa y segura)
+
+
 
 ## Fuentes:
 https://www.python.org/
