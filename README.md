@@ -1,7 +1,7 @@
 # Consulta-Primer-Bimestre
 # Wiki sobre Python
 
-
+## Python
 ![image](https://user-images.githubusercontent.com/92813781/144784295-c7a5950c-39d0-4572-90b1-3e43a60e21d4.png)
 
 *Python* es uno de los más populares lenguajes computacionales de programación.
@@ -21,7 +21,9 @@ Python se identifica por ser un lenguaje de programación bastante ágil y diná
 
 
 -Python requiere un consumo de memoria mayor al de la competencia.
+
 -A diferencia de Java en Python al escribir un error en alguna línea el programador no sera notificado hasta que la línea entre en ejecución durante el proceso.
+
 -No está diseñado para que pueda ser ejecutado en cualquier lugar.
 
 ## Ventajas
@@ -29,8 +31,12 @@ Python se identifica por ser un lenguaje de programación bastante ágil y diná
 
 
 -Es fácil de aprender.
+
 -Está diseñado en base a un entendimiento más facil del codigo diseñado.
+
 -Es particularmente más nuevo a comparación de Java.
+
+
 
 ## Empresas que usan Python
 
@@ -48,6 +54,8 @@ Python se identifica por ser un lenguaje de programación bastante ágil y diná
 
 ### -NASA
 ![image](https://user-images.githubusercontent.com/92813781/144785623-82265bfc-f565-4b8c-84a4-0c8fc9203eca.png)
+
+
 
 ## Descargar
 
