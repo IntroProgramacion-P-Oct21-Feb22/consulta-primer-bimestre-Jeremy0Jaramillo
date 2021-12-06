@@ -83,5 +83,7 @@ para tener una instalación completa y segura)
 
 ## Fuentes:
 https://www.python.org/
+
 https://www.snaplogic.com/glossary/python-vs-java-performance
+
 https://www.bmc.com/blogs/python-vs-java/
