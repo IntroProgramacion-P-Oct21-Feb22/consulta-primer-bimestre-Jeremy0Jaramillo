@@ -20,17 +20,17 @@ Python se identifica por ser un lenguaje de programación bastante ágil y diná
 ![image](https://user-images.githubusercontent.com/92813781/144785154-3fec760f-e8cd-426a-8240-bc4773b76df6.png)
 
 
-Python requiere un consumo de memoria mayor al de la competencia.
-A diferencia de Java en Python al escribir un error en alguna línea el programador no sera notificado hasta que la línea entre en ejecución durante el proceso.
-No está diseñado para que pueda ser ejecutado en cualquier lugar.
+-Python requiere un consumo de memoria mayor al de la competencia.
+-A diferencia de Java en Python al escribir un error en alguna línea el programador no sera notificado hasta que la línea entre en ejecución durante el proceso.
+-No está diseñado para que pueda ser ejecutado en cualquier lugar.
 
 ## Ventajas
 ![image](https://user-images.githubusercontent.com/92813781/144785200-ca427e4e-d34a-4be7-af40-b59c4884fa2a.png)
 
 
-Es fácil de aprender
-Está diseñado en base a un entendimiento más facil del codigo diseñado.
-Es particularmente más nuevo a comparación de Java
+-Es fácil de aprender.
+-Está diseñado en base a un entendimiento más facil del codigo diseñado.
+-Es particularmente más nuevo a comparación de Java.
 
 ## Empresas que usan Python
 
