@@ -1,3 +1,5 @@
+### Elaborado por: Jeremy Jaramillo
+
 # Consulta-Primer-Bimestre
 # Wiki sobre Python
 
