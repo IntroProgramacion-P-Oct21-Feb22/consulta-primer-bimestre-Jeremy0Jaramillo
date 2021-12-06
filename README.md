@@ -41,7 +41,7 @@ Python se identifica por ser un lenguaje de programación bastante ágil y diná
 ## Empresas que usan Python
 
 ### -Facebook
-![image](https://user-images.githubusercontent.com/92813781/144785369-0a0a5b58-09da-4caa-b82a-477e9489dfe0.png)
+![image](https://user-images.githubusercontent.com/92813781/144786460-297f7707-6f90-4969-8c02-6626e509097b.png)
 
 ### -Instagram
 ![image](https://user-images.githubusercontent.com/92813781/144785431-ea588215-c42f-4eba-99d5-d669d64acbb7.png)
